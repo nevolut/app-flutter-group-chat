@@ -4,22 +4,8 @@
 - [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
 - [My Instagram](https://www.instagram.com/sangvaleap.v/)
 - My Email: sangvaleap.vanny@gmail.com
-
-![Screen_Shot_2021-08-24_at_9.56.41_AM](/uploads/f868e6c83ee8e9b236895366eeab84fa/Screen_Shot_2021-08-24_at_9.56.41_AM.png)
-![Screen_Shot_2021-08-24_at_9.57.10_AM](/uploads/1eda0bb7ff1ff552c0b742ef07b71859/Screen_Shot_2021-08-24_at_9.57.10_AM.png)
-![Screen_Shot_2021-08-24_at_9.57.27_AM](/uploads/b1648064db467ac561c01e4b797775ae/Screen_Shot_2021-08-24_at_9.57.27_AM.png)
-![Screen_Shot_2021-08-24_at_9.57.45_AM](/uploads/0fb6f2f894e695daee7c57d0e4adb40c/Screen_Shot_2021-08-24_at_9.57.45_AM.png)
-![Screen_Shot_2021-08-24_at_9.58.16_AM](/uploads/b112e5e09832773d08b7f12bcaad6d5c/Screen_Shot_2021-08-24_at_9.58.16_AM.png)
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="800" alt="gc1" src="https://user-images.githubusercontent.com/86506519/144237675-1467429c-90f6-4fa6-8e07-6e2c61cb4e45.png">
+<img width="609" alt="gc3" src="https://user-images.githubusercontent.com/86506519/144237708-9fbc4b5f-27e2-45ce-93bd-59c8e9b4eb57.png">
+<img width="608" alt="gc4" src="https://user-images.githubusercontent.com/86506519/144237722-ac940e09-f979-4c27-9350-aee376a5ccad.png">
+<img width="671" alt="gc2" src="https://user-images.githubusercontent.com/86506519/144237734-6fc6573b-b940-48bc-a254-ac37973415cc.png">
+<img width="663" alt="gc5" src="https://user-images.githubusercontent.com/86506519/144237741-b00d9b14-6726-47cf-8d68-6d2a339547d0.png">
